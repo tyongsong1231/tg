@@ -1,0 +1,64 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\tg_src\\Telegram",
+      "sdkFolder": "D:\\AndroidSdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\build\\intermediates",
+      "gradleModulePathName": ":TMessagesProj",
+      "moduleRootFolder": "D:\\tg_src\\Telegram\\TMessagesProj",
+      "makeFile": "D:\\tg_src\\Telegram\\TMessagesProj\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "D:\\tg_src\\Telegram\\.cxx",
+      "cxxFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx",
+      "ndkFolder": "D:\\ndk_r20\\android-ndk-r20",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "NDK_APPLICATION_MK:\u003djni/Application.mk",
+      "APP_PLATFORM:\u003dandroid-16",
+      "-j8"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "afatHA",
+    "soFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatHA\\lib",
+    "objFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatHA\\obj\\local",
+    "jsonFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA",
+    "gradleBuildOutputFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\cxx\\afatHA",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a",
+  "jsonFile": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\cxx\\afatHA\\armeabi-v7a",
+  "objFolder": "D:\\tg_src\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatHA\\obj\\local\\armeabi-v7a",
+  "buildCommandFile": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\tg_src\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatHA\\armeabi-v7a\\compile_commands.json"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815246103380",
+    "firebase_url": "https://finaly1231.firebaseio.com",
+    "project_id": "finaly1231",
+    "storage_bucket": "finaly1231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815246103380:android:31d9850118da8efc",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815246103380-kdha42t48r1n7e4oj9vre0ocqd2oulsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbZ6leBXf64CWSX-CC4X_YJV8Le5uWbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815246103380-kdha42t48r1n7e4oj9vre0ocqd2oulsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
